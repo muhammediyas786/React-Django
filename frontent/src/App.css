@@ -1,0 +1,31 @@
+#list1 .form-control {
+    border-color: transparent;
+}
+
+#list1 .form-control:focus {
+    border-color: transparent;
+    box-shadow: none;
+}
+
+#list1 .select-input.form-control[readonly]:not([disabled]) {
+    background-color: #fbfbfb;
+}
+
+.text-info {
+    margin-right: 30px;
+}
+
+.card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: gray;
+    box-shadow: 5px 5px 10px 5px #1c1c1c;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(0,255,218,1) 0%, rgba(65,66,255,1) 100%);
+}
+
+ul{
+    margin-top: 20px;
+}
