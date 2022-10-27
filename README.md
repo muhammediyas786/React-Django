@@ -1,7 +1,7 @@
 
 # Todo app
 
-This project is made with using django and react js. Created this project with the help of youtube.
+This project is made with using django rest-framework and react js. Created this project with the help of youtube.
 
 
 
